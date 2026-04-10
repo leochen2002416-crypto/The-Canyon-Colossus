@@ -240,8 +240,8 @@ Boss血量來到75%時，左右兩方會各生成一座小火山，左方(玩家
   - +30% Spell Damage
   - +30% Elemental Damage
  - Intrepid I
-  - +75% Health Regen
-  - Heart of the Pack Major ID
+   - +75% Health Regen
+   - Heart of the Pack Major ID
 - Intrepid II
   - +40% Walk Speed
   - +30% Stealing
