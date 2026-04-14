@@ -143,13 +143,10 @@
 Boss戰場地是一堆零碎的小平台，玩家如果從平台上掉落將會受到傷害並彈起(隔壁棚的凋零不排除提告)。
 
 ### 核心
-- 場地靠後方區域有三個位置會生成Colossal Core
-- 有Core存在時，Boss受到傷害會降低，此效果可疊加
-  - 1個Core存在時: 33%減傷
-  - 2個Core存在時: 66%減傷
-  - 3個Core存在時: 100%減傷
+- 場地靠後方區域有三個位置會生成Colossal Core，整場會生成4次
+- 有Core存在時，Boss受到傷害會降低33%，此效果可疊加，3個Core存在時Boss直接無敵
 <img width="452" height="403" alt="image" src="https://github.com/user-attachments/assets/923284e4-51b6-4e4f-bd19-5c246aee64eb" />
-
+Guild Raid模式下，1個Core存在時會使Boss受到傷害降低50%
 
 ---
 ## Boss技能
